@@ -1,0 +1,51 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: burlywood;
+}
+header{
+    border: 3px solid red;
+    margin: 2px 65px;
+}
+
+main{
+    border: 3px solid yellowgreen;
+}
+
+.hero{
+    border: 3px solid blue;
+}
+
+.about{
+    border: 3px solid aqua;
+}
+
+.miestilo{
+    color: aqua;
+    font-size: 64px;
+}
+
+.sangria{
+    text-indent: 60px;
+}
+
+.cuadros{
+    border: 2px;
+    vertical-align: top;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0 10px;
+    border: 2px solid red;
+}
+
+img{
+    height: 40px;
+    width: 40px;
+    
+}
+
